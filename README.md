@@ -137,14 +137,12 @@ JANE,12/25/2024,14:31:22
 - [ ] Mobile app for remote attendance marking
 - [ ] Analytics dashboard for attendance reports
 
-## 📝 License
-
-This project is developed for educational and portfolio purposes. Feel free to use and modify as needed.
 
 ## 👨‍💻 Developer
 
-**Your Name** - Computer Vision & Python Developer
+**Yasir** - Computer Vision & Python Developer
 
 ---
 
 *This project demonstrates proficiency in computer vision, real-time image processing, and Python development for practical applications.*
+
